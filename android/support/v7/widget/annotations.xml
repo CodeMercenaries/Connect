@@ -1,0 +1,8 @@
+<root>
+    <item name='android.support.v7.widget.LinearLayoutManager void setStackFromEnd(boolean)'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null-&gt;_&quot;" />
+        </annotation>
+    </item>
+</root>

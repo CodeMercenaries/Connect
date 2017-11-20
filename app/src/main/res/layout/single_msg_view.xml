@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="100dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/msg_shape">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="karthi"
+        android:padding="5dp"
+        android:textColor="#AD1457"
+        android:textSize="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/usernameText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hi dude"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="15dp"
+        android:id="@+id/messageText"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12:00"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/timeText"/>
+
+</LinearLayout>

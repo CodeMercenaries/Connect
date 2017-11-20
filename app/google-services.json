@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310824427363",
+    "firebase_url": "https://connect-7cc3c.firebaseio.com",
+    "project_id": "connect-7cc3c",
+    "storage_bucket": "connect-7cc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310824427363:android:dca95b08147c3c5e",
+        "android_client_info": {
+          "package_name": "com.karthi.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310824427363-3f2t8o2nv4umr6tko8h2kq7tku4rhaqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthi.connect",
+            "certificate_hash": "3eb588e5abd104e1bbf93d950ff00b53297b73b9"
+          }
+        },
+        {
+          "client_id": "310824427363-s8ne2g36nvdn0hatmm30hnhe0eb6632l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01uNn58z8AqYhj-q0LhA8T-3ykcH2I2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310824427363-s8ne2g36nvdn0hatmm30hnhe0eb6632l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
